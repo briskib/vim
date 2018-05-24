@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/Brian/Developement/anz/src'
+let g:netrw_dirhist_2='/Users/Brian/Developement/anz/src/js'
+let g:netrw_dirhist_3='/Users/Brian'
+let g:netrw_dirhist_4='/Users/Brian/Developement'
+let g:netrw_dirhist_5='/Users/Brian/Developement/anz'
